@@ -8,7 +8,7 @@
   flex-direction: column;
   justify-content: center;
   }
-  header {
+header {
     padding-top: 15px;
     padding-bottom: 0px;
     /* margin-bottom: 80px; */
@@ -22,7 +22,7 @@
       flex-direction: column;
       align-items: center;
   }
-    }
+    
 
 .nav{
   .header_content{

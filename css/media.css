@@ -8,16 +8,25 @@
   flex-direction: column;
   justify-content: center;
   }
+  header {
+    padding-top: 15px;
+    padding-bottom: 0px;
+    /* margin-bottom: 80px; */
+}
   .header_content{
-    padding: 15px;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
+      text-align: center;
+      
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+  }
     }
 
 .nav{
   .header_content{
-    padding: 15px;
+    
     margin: auto;
     display: flex;
     justify-content: space-between;
